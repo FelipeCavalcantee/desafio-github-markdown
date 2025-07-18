@@ -7,7 +7,7 @@ Vamos iniciar um pequeno projeto para treinar os comandos do GitHub e usar algum
 
 [X] Ter 1 Colaborador no Projeto<br>
 [X] Ambos devem fazer um clone do repósitorio nas máquinas locais, iniciando com um Fork<br>
-[ ] Fazer Commits<br>
+[X] Fazer Commits<br>
 [ ] Abrir Issues<br>
 [ ] Pull Requests<br>
 [ ] Criar Branches<br>
