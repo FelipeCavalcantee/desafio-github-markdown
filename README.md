@@ -12,4 +12,4 @@ Vamos iniciar um pequeno projeto para treinar os comandos do GitHub e usar algum
 [X] Pull Requests<br><br>
 [X] Criar Branches<br><br>
 [X] Realizar Merge<br><br>
-[ ] Criar Readme do Perfil
+[X] Criar Readme do Perfil
