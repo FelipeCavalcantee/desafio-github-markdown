@@ -5,7 +5,7 @@ Vamos iniciar um pequeno projeto para treinar os comandos do GitHub e usar algum
 
 **Checklist de Tarefas:**
 
-[ ] Colaborador no Projeto
+[ ] Colaborador no Projeto -
 [ ] Ambos devem fazer um clone do repósitorio nas máquinas locais, iniciando com um Fork
 [ ] Fazer Commits
 [ ] Abrir Issues
