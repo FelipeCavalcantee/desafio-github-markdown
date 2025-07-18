@@ -6,10 +6,10 @@ Vamos iniciar um pequeno projeto para treinar os comandos do GitHub e usar algum
 **Checklist de Tarefas:**
 
 [X] Ter 1 Colaborador no Projeto<br><br>
-[X] Ambos devem fazer um clone do repósitorio nas máquinas locais, iniciando com um Fork<br>
-[X] Fazer Commits<br>
-[ ] Abrir Issues<br>
-[ ] Pull Requests<br>
-[ ] Criar Branches<br>
-[ ] Realizar Merge<br>
+[X] Ambos devem fazer um clone do repósitorio nas máquinas locais, iniciando com um Fork<br><br>
+[X] Fazer Commits<br><br>
+[ ] Abrir Issues<br><br>
+[ ] Pull Requests<br><br>
+[ ] Criar Branches<br><br>
+[ ] Realizar Merge<br><br>
 [ ] Criar Readme do Perfil
