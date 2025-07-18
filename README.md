@@ -10,6 +10,6 @@ Vamos iniciar um pequeno projeto para treinar os comandos do GitHub e usar algum
 [X] Fazer Commits<br><br>
 [X] Abrir Issues<br><br>
 [X] Pull Requests<br><br>
-[ ] Criar Branches<br><br>
-[ ] Realizar Merge<br><br>
+[X] Criar Branches<br><br>
+[X] Realizar Merge<br><br>
 [ ] Criar Readme do Perfil
